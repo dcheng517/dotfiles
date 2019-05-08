@@ -20,8 +20,21 @@ URxvt.loginShell:           true
 URxvt.saveLines:            1000
 URxvt.internalBorder:       3
 URxvt.lineSpace:            0
-urxvt.background: rgba:0000/0000/0800/d300
+urxvt.background: rgba:0000/0000/0800/e500
 urxvt.foreground: #dddddd
+
+! Disable ISO 14755 unicode input so we can use Ctrl-Shift bindings
+# URxvt.iso14755:        false
+# URxvt.iso14755_52:     false
+
+URxvt.perl-ext-common: tabbed
+! tabbed shortcuts
+# S+Down:   New tab
+# S+Left:   Left tab
+# S+Right:  Right tab
+# C+Left:   Move tab to left
+# C+Right:  Move tab to right
+# C+d:      Close tab   
 
 ! Appearance
 #URxvt.font:	xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
@@ -135,4 +148,4 @@ urxvt*color13:                       #f57900
 urxvt*color6:                        #89b6e2
 urxvt*color14:                       #46a4ff
 urxvt*color7:                        #cccccc
-urxvt*color15: #ffffff
+urxvt*color15:                       #ffffff

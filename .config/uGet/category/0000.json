@@ -48,6 +48,5209 @@
 					}
 				},
 				"progress": {
+					"complete": 3911378432,
+					"total": 3911378432,
+					"elapsed": 665,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556541723,
+					"completed-time": 1556542388,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556541725
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "g53secVMs17.ova",
+					"uri": "http:\/\/cvl.cs.nott.ac.uk\/resources\/g53secVMs17.ova",
+					"file": "g53secVMs17.ova",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/g53secVMs17.ova",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 843748429,
+					"total": 843748429,
+					"elapsed": 647,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556092010,
+					"completed-time": 1556094143,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556093499
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-872.mp4.0",
+					"uri": "https:\/\/openload.co\/stream\/vJD9XxsELHA~1556177569~2001:e68::~PAn3ALwC",
+					"file": "STAR-872.mp4.0",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-872.mp4.0",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2651315299,
+					"total": 2651315299,
+					"elapsed": 239,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556093596,
+					"completed-time": 1556093837,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556093600
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "HAWA-115.mp4",
+					"uri": "https:\/\/openload.co\/stream\/4WM4JQYAAtI~1556178204~2001:e68::~1mXu6rp-",
+					"file": "HAWA-115.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/HAWA-115.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2219266149,
+					"total": 2219266149,
+					"elapsed": 836,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091750,
+					"completed-time": 1556093822,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092988
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-644.mp4",
+					"uri": "https:\/\/openload.co\/stream\/b3zF9OWYAR4~1556178102~2001:e68::~fBwsVdtp",
+					"file": "STAR-644.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-644.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1342163053,
+					"total": 1342163053,
+					"elapsed": 340,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091883,
+					"completed-time": 1556093598,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556093260
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "HAWA-151.mp4",
+					"uri": "https:\/\/openload.co\/stream\/44hd9lPMxtA~1556178233~2001:e68::~VDtrVGbO",
+					"file": "HAWA-151.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/HAWA-151.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1998124345,
+					"total": 1998124345,
+					"elapsed": 840,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091695,
+					"completed-time": 1556093258,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092419
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-615.mp4",
+					"uri": "https:\/\/openload.co\/stream\/xiyTd1PjXaw~1556178048~2001:e68::~2gnzA8mn",
+					"file": "STAR-615.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-615.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2541398152,
+					"total": 2541398152,
+					"elapsed": 646,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091611,
+					"completed-time": 1556092987,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092342
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "MIAE-332.mp4",
+					"uri": "https:\/\/openload.co\/stream\/9XsbNTa0E-c~1556177964~2001:e68::~yKi-Oz0I",
+					"file": "MIAE-332.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/MIAE-332.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1663704997,
+					"total": 1663704997,
+					"elapsed": 254,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091721,
+					"completed-time": 1556092986,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092734
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-621.mp4",
+					"uri": "https:\/\/openload.co\/stream\/tzsa-cofIjc~1556178074~2001:e68::~kljr0oX5",
+					"file": "STAR-621.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-621.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1559245476,
+					"total": 1559245476,
+					"elapsed": 570,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091499,
+					"completed-time": 1556092732,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092163
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-513.mp4",
+					"uri": "https:\/\/openload.co\/stream\/PLa4tiydZ4c~1556177851~2001:e68::~EDb7luZD",
+					"file": "STAR-513.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-513.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2091035217,
+					"total": 2091035217,
+					"elapsed": 97,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091565,
+					"completed-time": 1556092418,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092322
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-566.mp4",
+					"uri": "https:\/\/openload.co\/stream\/pbdjp1lY-wM~1556177917~2001:e68::~39MaDuM7",
+					"file": "STAR-566.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-566.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 712683714,
+					"total": 712683714,
+					"elapsed": 287,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091473,
+					"completed-time": 1556092341,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092056
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-454.mp4",
+					"uri": "https:\/\/openload.co\/stream\/L60YW_7YETI~1556177826~2001:e68::~jZIFPN4j",
+					"file": "STAR-454.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-454.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 896662087,
+					"total": 896662087,
+					"elapsed": 284,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091457,
+					"completed-time": 1556092321,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556092039
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-750.mp4",
+					"uri": "https:\/\/openload.co\/stream\/CvHsp9qjMdA~1556177810~2001:e68::~p_zgwx-c",
+					"file": "STAR-750.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-750.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1230904740,
+					"total": 1230904740,
+					"elapsed": 336,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091364,
+					"completed-time": 1556092162,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556091827
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-758.mp4",
+					"uri": "https:\/\/openload.co\/stream\/RPVj81wHeZY~1556177717~2001:e68::~ipcTkung",
+					"file": "STAR-758.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-758.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 838130052,
+					"total": 838130052,
+					"elapsed": 892,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091162,
+					"completed-time": 1556092054,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1556091185
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SDEN-022.mp4",
+					"uri": "https:\/\/openload.co\/stream\/-i2Pd4GDPNU~1556177503~2001:e68::~j5LpY8Sd",
+					"file": "SDEN-022.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SDEN-022.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2310092976,
+					"total": 2310092976,
+					"elapsed": 798,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091239,
+					"completed-time": 1556092037,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556091246
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SDEN-017.mp4",
+					"uri": "https:\/\/openload.co\/stream\/QkZi9QgIDj8~1556177592~2001:e68::~BEZtf93g",
+					"file": "SDEN-017.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SDEN-017.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1354692090,
+					"total": 1354692090,
+					"elapsed": 480,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556091291,
+					"completed-time": 1556091772,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556091293
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-775.mp4",
+					"uri": "https:\/\/openload.co\/stream\/LsBqhSLCQUg~1556177644~2001:e68::~lCox0PzV",
+					"file": "STAR-775.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-775.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1228564932,
+					"total": 1228564932,
+					"elapsed": 373,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554808013,
+					"completed-time": 1554808387,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554808015
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tokyo_hot-n1176.mp4",
+					"uri": "https:\/\/openload.co\/stream\/uxIAP6qYgcg~1554894382~2001:e68::~Y5FZh1fs",
+					"file": "tokyo_hot-n1176.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/tokyo_hot-n1176.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 475015874,
+					"total": 475015874,
+					"elapsed": 283,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554808032,
+					"completed-time": 1554808316,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554808037
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tokyo_hot-k1371.mp4",
+					"uri": "https:\/\/openload.co\/stream\/BPE8rPkSGqY~1554894400~2001:e68::~50QHa2G2",
+					"file": "tokyo_hot-k1371.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/tokyo_hot-k1371.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 238914927,
+					"total": 238914927,
+					"elapsed": 58,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554807894,
+					"completed-time": 1554807952,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554807895
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-091516257.mp4",
+					"uri": "https:\/\/openload.co\/stream\/-0EbLSRSSE8~1554894262~2001:e68::~eJUllE5k",
+					"file": "caribbean-091516257.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-091516257.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 169141220,
+					"total": 169141220,
+					"elapsed": 725,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805192,
+					"completed-time": 1554807831,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554807112
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-090516249.mp4",
+					"uri": "https:\/\/openload.co\/stream\/bkjH4zd3Jgs~1554891560~2001:e68::~Oa825jFA",
+					"file": "caribbean-090516249.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-090516249.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1478783135,
+					"total": 1478783135,
+					"elapsed": 194,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804448,
+					"completed-time": 1554807590,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-909.mp4",
+					"uri": "https:\/\/openload.co\/stream\/D1YHu8yWtgA~1554890807~2001:e68::~cTQoR5so",
+					"file": "STAR-909.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-909.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 661464252,
+					"total": 661464252,
+					"elapsed": 164,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804586,
+					"completed-time": 1554807413,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-081814_866.mp4",
+					"uri": "https:\/\/openload.co\/stream\/NUxxrO1WnTw~1554890956~2001:e68::~faj1NBJ8",
+					"file": "1pondo-081814_866.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-081814_866.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 615764966,
+					"total": 615764966,
+					"elapsed": 239,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554806087,
+					"completed-time": 1554807396,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554807159
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-040315845.mp4",
+					"uri": "https:\/\/openload.co\/stream\/exK7klcEY28~1554891244~2001:e68::~blndkR3m",
+					"file": "caribbean-040315845.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-040315845.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1121628133,
+					"total": 1121628133,
+					"elapsed": 749,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805156,
+					"completed-time": 1554807157,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806415
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tokyo_hot-n1211.mp4",
+					"uri": "https:\/\/openload.co\/stream\/hZoU2nUoAQM~1554891512~2001:e68::~llw3pBGB",
+					"file": "tokyo_hot-n1211.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/tokyo_hot-n1211.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1164042104,
+					"total": 1164042104,
+					"elapsed": 329,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805169,
+					"completed-time": 1554807126,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806802
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tokyo_hot-n1209.mp4",
+					"uri": "https:\/\/openload.co\/stream\/e2n0OVvcjco~1554891538~2001:e68::~t2n5iDoz",
+					"file": "tokyo_hot-n1209.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/tokyo_hot-n1209.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 726393564,
+					"total": 726393564,
+					"elapsed": 788,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805057,
+					"completed-time": 1554807106,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806323
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-090216_374.mp4",
+					"uri": "https:\/\/openload.co\/stream\/KFP5fHCJ-zQ~1554891425~2001:e68::~aU0jgRhv",
+					"file": "1pondo-090216_374.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-090216_374.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 547486912,
+					"total": 547486912,
+					"elapsed": 428,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805092,
+					"completed-time": 1554806797,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806375
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-080614_857.mp4",
+					"uri": "https:\/\/openload.co\/stream\/SCaXUt6MZqs~1554891460~2001:e68::~Oo28-sPF",
+					"file": "1pondo-080614_857.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-080614_857.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 655004934,
+					"total": 655004934,
+					"elapsed": 359,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805036,
+					"completed-time": 1554806408,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806053
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-092316265.mp4",
+					"uri": "https:\/\/openload.co\/stream\/kKRdM2cId7s~1554891403~2001:e68::~fbOaypRI",
+					"file": "caribbean-092316265.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-092316265.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 619861309,
+					"total": 619861309,
+					"elapsed": 330,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554805015,
+					"completed-time": 1554806369,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554806041
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-042316143.mp4",
+					"uri": "https:\/\/openload.co\/stream\/R1gHbpc1HVE~1554891385~2001:e68::~z7WVPalc",
+					"file": "caribbean-042316143.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-042316143.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 571638960,
+					"total": 571638960,
+					"elapsed": 466,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804933,
+					"completed-time": 1554806318,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805857
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-082614_870.mp4",
+					"uri": "https:\/\/openload.co\/stream\/MjBsfGMqV6Y~1554891298~2001:e68::~SxtKqBPs",
+					"file": "1pondo-082614_870.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-082614_870.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 786421212,
+					"total": 786421212,
+					"elapsed": 573,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804773,
+					"completed-time": 1554806049,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805481
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-012417_470.mp4",
+					"uri": "https:\/\/openload.co\/stream\/Ca-QNzmO1Bg~1554891136~2001:e68::~2UVz5sw_",
+					"file": "1pondo-012417_470.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-012417_470.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 145206322,
+					"total": 145206322,
+					"elapsed": 188,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804880,
+					"completed-time": 1554805852,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805671
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-041515853.mp4",
+					"uri": "https:\/\/openload.co\/stream\/OWtZ9KFcvnE~1554891230~2001:e68::~0IIw2MjN",
+					"file": "caribbean-041515853.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-041515853.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 606709987,
+					"total": 606709987,
+					"elapsed": 319,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804833,
+					"completed-time": 1554805849,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805535
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-121316_444.mp4",
+					"uri": "https:\/\/openload.co\/stream\/WLKdxPCr3VI~1554891197~2001:e68::~vN_QLXYu",
+					"file": "1pondo-121316_444.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-121316_444.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 620879560,
+					"total": 620879560,
+					"elapsed": 430,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804717,
+					"completed-time": 1554805664,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805241
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "gachinco-1013.mp4",
+					"uri": "https:\/\/openload.co\/stream\/ttS8wrBWPsY~1554891084~2001:e68::~NADiHNNN",
+					"file": "gachinco-1013.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/gachinco-1013.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 359386978,
+					"total": 359386978,
+					"elapsed": 294,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804741,
+					"completed-time": 1554805530,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554805243
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "gachinco-1011.mp4",
+					"uri": "https:\/\/openload.co\/stream\/bvUvuT-_n6E~1554891106~2001:e68::~VQyym26U",
+					"file": "gachinco-1011.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/gachinco-1011.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 606567162,
+					"total": 606567162,
+					"elapsed": 525,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804684,
+					"completed-time": 1554805476,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554804954
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "1pondo-011317_464.mp4",
+					"uri": "https:\/\/openload.co\/stream\/EVmKsS1dqs4~1554891049~2001:e68::~8MQsPKdC",
+					"file": "1pondo-011317_464.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/1pondo-011317_464.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1448666728,
+					"total": 1448666728,
+					"elapsed": 902,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804334,
+					"completed-time": 1554805236,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554804336
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "MOND-158.mp4",
+					"uri": "https:\/\/openload.co\/stream\/Zw4KsFaLLMc~1554890696~2001:e68::~-oYnnYkh",
+					"file": "MOND-158.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/MOND-158.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 302913804,
+					"total": 302913804,
+					"elapsed": 283,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554804634,
+					"completed-time": 1554805234,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554804955
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "caribbean-041916140.mp4",
+					"uri": "https:\/\/openload.co\/stream\/axjBeLMHVKk~1554890993~2001:e68::~lAxl5DB2",
+					"file": "caribbean-041916140.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/caribbean-041916140.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1862137913,
+					"total": 1862137913,
+					"elapsed": 1837,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554648535,
+					"completed-time": 1554650372,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554648537
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-731.mp4",
+					"uri": "https:\/\/openload.co\/stream\/bgdVIU2PvTg~1554734894~2001:e68::~DTqMZqsm",
+					"file": "STAR-731.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-731.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1842798374,
+					"total": 1842798374,
+					"elapsed": 508,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1554648619,
+					"completed-time": 1554649127,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1554648621
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-625.mp4",
+					"uri": "https:\/\/openload.co\/stream\/7G2ZRvMlOnY~1554734986~2001:e68::~dE3FxYTi",
+					"file": "STAR-625.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-625.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1674531235,
+					"total": 1674531235,
+					"elapsed": 2276,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1553273632,
+					"completed-time": 1553275908,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1553273635
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "WANZ-826.mp4",
+					"uri": "https:\/\/openload.co\/stream\/mJ7pTuBUp98~1553359989~2001:e68::~cdPnJxav",
+					"file": "WANZ-826.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/WANZ-826.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1309902615,
+					"total": 1309902615,
+					"elapsed": 1588,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1553273684,
+					"completed-time": 1553275273,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1553273686
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "WANZ-838.mp4",
+					"uri": "https:\/\/oqt1p2.oloadcdn.net\/dl\/l\/V2ZQMfQ3WMKCsKZ0\/cAFMiN4cAYo\/WANZ-838.mp4",
+					"file": "WANZ-838.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/WANZ-838.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 142312,
+					"total": 142312,
+					"elapsed": 2,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1553274141,
+					"completed-time": 1553274360,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1553274359
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "view",
+					"uri": "https:\/\/drive.google.com\/open?id=1PRsUTTMBdjAjsVGaS4pFW6TCwX-7zdmiRw",
+					"file": "view",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/view",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1304970052,
+					"total": 1304970052,
+					"elapsed": 742,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1553273616,
+					"completed-time": 1553274358,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1553273617
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "PPPD-728.mp4",
+					"uri": "https:\/\/openload.co\/stream\/8ISgsdW6Iww~1553359961~2001:e68::~RD70Ng3g",
+					"file": "PPPD-728.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/PPPD-728.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1932645982,
+					"total": 1932645982,
+					"elapsed": 397,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1552510040,
+					"completed-time": 1552511712,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "STAR-605.mp4",
+					"uri": "https:\/\/openload.co\/stream\/VbpLtvC3nWc~1552596399~2001:e68::~_1ajdmqN",
+					"file": "STAR-605.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/STAR-605.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2323641169,
+					"total": 2323641169,
+					"elapsed": 2642,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360395,
+					"completed-time": 1551369280,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BDA-080.mp4",
+					"uri": "https:\/\/openload.co\/stream\/3yWMS2a6qvU~1551446780~2001:e68::~LsobGX4N",
+					"file": "BDA-080.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BDA-080.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1492379439,
+					"total": 1492379439,
+					"elapsed": 1171,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551361159,
+					"completed-time": 1551367822,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551366654
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "NITR-411.mp4",
+					"uri": "https:\/\/openload.co\/stream\/2OlXwL-bwp0~1551447539~2001:e68::~HuXqVVNj",
+					"file": "NITR-411.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/NITR-411.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1617991683,
+					"total": 1617991683,
+					"elapsed": 2574,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551361141,
+					"completed-time": 1551367512,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551364941
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "XRW-530.mp4",
+					"uri": "https:\/\/openload.co\/stream\/ULuiqxEJbW4~1551447526~2001:e68::~IgO6RIMr",
+					"file": "XRW-530.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/XRW-530.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2087433538,
+					"total": 2087433538,
+					"elapsed": 2265,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360725,
+					"completed-time": 1551366651,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551364389
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "ABP-834.mp4",
+					"uri": "https:\/\/openload.co\/stream\/bX3JAMuGGkk~1551447098~2001:e68::~R8rse-9m",
+					"file": "ABP-834.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/ABP-834.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1789205748,
+					"total": 1789205748,
+					"elapsed": 1922,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360806,
+					"completed-time": 1551366638,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551364718
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DVDMS-328.mp4",
+					"uri": "https:\/\/openload.co\/stream\/9ym_F8_2joc~1551447182~2001:e68::~fnazLYrw",
+					"file": "DVDMS-328.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/DVDMS-328.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 787133164,
+					"total": 787133164,
+					"elapsed": 688,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360617,
+					"completed-time": 1551364938,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551364255
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "JUY-415.mp4",
+					"uri": "https:\/\/openload.co\/stream\/0PVkXsVhVeU~1551446998~2001:e68::~pggyrcqL",
+					"file": "JUY-415.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/JUY-415.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1584139021,
+					"total": 1584139021,
+					"elapsed": 1485,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360556,
+					"completed-time": 1551364716,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551363246
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BDA-083.mp4",
+					"uri": "https:\/\/openload.co\/stream\/tsUtxaRtIxY~1551446935~2001:e68::~Rn9qaWWW",
+					"file": "BDA-083.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BDA-083.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1475194803,
+					"total": 1475194803,
+					"elapsed": 1709,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360535,
+					"completed-time": 1551364386,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551362682
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "CESD-701.mp4",
+					"uri": "https:\/\/openload.co\/stream\/1KzAv16t3GI~1551446921~2001:e68::~X4FUMnST",
+					"file": "CESD-701.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/CESD-701.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1654499138,
+					"total": 1654499138,
+					"elapsed": 2846,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360485,
+					"completed-time": 1551364250,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551361411
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "IPX-275.mp4",
+					"uri": "https:\/\/openload.co\/stream\/YNIKUdkO8kY~1551446870~2001:e68::~czR7nq3m",
+					"file": "IPX-275.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/IPX-275.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 816724355,
+					"total": 816724355,
+					"elapsed": 751,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360506,
+					"completed-time": 1551363231,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551362485
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BDA-082.mp4",
+					"uri": "https:\/\/openload.co\/stream\/l3BHrOTQQGo~1551446889~2001:e68::~Rh4inMQ4",
+					"file": "BDA-082.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BDA-082.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1286879488,
+					"total": 1286879488,
+					"elapsed": 2414,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360263,
+					"completed-time": 1551362677,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551360265
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "ATID-330.mp4",
+					"uri": "https:\/\/openload.co\/stream\/bvLBXzhvOPI~1551446635~2001:e68::~R19K6D8D",
+					"file": "ATID-330.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/ATID-330.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1787706021,
+					"total": 1787706021,
+					"elapsed": 2101,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360378,
+					"completed-time": 1551362480,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551360381
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BDA-085.mp4",
+					"uri": "https:\/\/openload.co\/stream\/V3fV1SinAgg~1551446764~2001:e68::~WGV9E66k",
+					"file": "BDA-085.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BDA-085.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 802829684,
+					"total": 802829684,
+					"elapsed": 959,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1551360424,
+					"completed-time": 1551361394,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1551360446
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BDA-081.mp4",
+					"uri": "https:\/\/openload.co\/stream\/C9tcY3oyTS8~1551446810~2001:e68::~6FFz98n7",
+					"file": "BDA-081.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BDA-081.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1360526686,
+					"total": 1360526686,
+					"elapsed": 250,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840227,
+					"completed-time": 1550845283,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "GDJU-070.mp4",
+					"uri": "https:\/\/openload.co\/stream\/X4QnQCR17Rs~1550926605~2001:e68::~vBWEhkzr",
+					"file": "GDJU-070.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/GDJU-070.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 780314896,
+					"total": 780314896,
+					"elapsed": 800,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840412,
+					"completed-time": 1550845172,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550844376
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "HND-447.mp4",
+					"uri": "https:\/\/openload.co\/stream\/4ck3Hc9qHRs~1550926795~2001:e68::~ITjkNHf2",
+					"file": "HND-447.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/HND-447.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1724039032,
+					"total": 1724039032,
+					"elapsed": 984,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840389,
+					"completed-time": 1550844556,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550843574
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BBAN-195.mp4",
+					"uri": "https:\/\/openload.co\/stream\/L5M2Df4jVY8~1550926768~2001:e68::~gFPcVkSP",
+					"file": "BBAN-195.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/BBAN-195.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2236583677,
+					"total": 2236583677,
+					"elapsed": 43,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840112,
+					"completed-time": 1550844372,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DOCP-122.mp4",
+					"uri": "https:\/\/openload.co\/stream\/Gu-5NlOMsrQ~1550926492~2001:e68::~3Fl_8rDi",
+					"file": "DOCP-122.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/DOCP-122.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1298845962,
+					"total": 1298845962,
+					"elapsed": 1392,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840025,
+					"completed-time": 1550843572,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550842182
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SSNI-224.mp4.0",
+					"uri": "https:\/\/openload.co\/stream\/W5v1k2uvVxY~1550926404~2001:e68::~Gnz5i0vC",
+					"file": "SSNI-224.mp4.0",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SSNI-224.mp4.0",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1476222376,
+					"total": 1476222376,
+					"elapsed": 1310,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840163,
+					"completed-time": 1550842723,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550841415
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "GDJU-076.mp4",
+					"uri": "https:\/\/openload.co\/stream\/0DniyPG6e9U~1550926543~2001:e68::~emcQhqPx",
+					"file": "GDJU-076.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/GDJU-076.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1343991187,
+					"total": 1343991187,
+					"elapsed": 2109,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550840071,
+					"completed-time": 1550842180,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550840078
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SSNI-329.mp4",
+					"uri": "https:\/\/openload.co\/stream\/_kI0tzt3XME~1550926452~2001:e68::~dSFTPADt",
+					"file": "SSNI-329.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SSNI-329.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1566266794,
+					"total": 1566266794,
+					"elapsed": 665,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550839912,
+					"completed-time": 1550840577,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550839914
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SSNI-415.mp4",
+					"uri": "https:\/\/openload.co\/stream\/j9jLg-FYDyY~1550926292~2001:e68::~-O9bHPOk",
+					"file": "SSNI-415.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SSNI-415.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1558472775,
+					"total": 1558472775,
+					"elapsed": 827,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1550838460,
+					"completed-time": 1550839288,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1550838462
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SDDE-559.mp4",
+					"uri": "https:\/\/openload.co\/stream\/IDN8FP83-Ls~1550924822~2001:e68::~P0AbiqNU",
+					"file": "SDDE-559.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/SDDE-559.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 711466906,
+					"total": 711466906,
+					"elapsed": 467,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634682,
+					"completed-time": 1548640354,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548639892
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-604817.mp4",
+					"uri": "https:\/\/openload.co\/stream\/IYcHTaCi4m0~1548721064~2001:e68::~m28Fbmef",
+					"file": "FC2_PPV-604817.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-604817.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 532525058,
+					"total": 532525058,
+					"elapsed": 522,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634514,
+					"completed-time": 1548640266,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548639745
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-955546.mp4.0.0",
+					"uri": "https:\/\/openload.co\/stream\/5BLmJL0QYq4~1548720896~2001:e68::~GWW8z8vI",
+					"file": "FC2_PPV-955546.mp4.0.0",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-955546.mp4.0.0",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1026433783,
+					"total": 1026433783,
+					"elapsed": 545,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634650,
+					"completed-time": 1548640092,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-845831.mp4.0",
+					"uri": "https:\/\/openload.co\/stream\/m3Z1oaMTkOQ~1548721032~2001:e68::~B67TeeGD",
+					"file": "FC2_PPV-845831.mp4.0",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-845831.mp4.0",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 825521919,
+					"total": 825521919,
+					"elapsed": 884,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634421,
+					"completed-time": 1548639887,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548639004
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-968694.mp4.0",
+					"uri": "https:\/\/openload.co\/stream\/v-1QSd7SrGU~1548720802~2001:e68::~-rvKAYId",
+					"file": "FC2_PPV-968694.mp4.0",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-968694.mp4.0",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2541398152,
+					"total": 2541398152,
+					"elapsed": 690,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548633897,
+					"completed-time": 1548639744,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "MIAE-332.mp4",
+					"uri": "https:\/\/openload.co\/stream\/9XsbNTa0E-c~1548720271~2001:e68::~OTAnKzmW",
+					"file": "MIAE-332.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/MIAE-332.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 771189885,
+					"total": 771189885,
+					"elapsed": 291,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634668,
+					"completed-time": 1548638419,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-616278.mp4",
+					"uri": "https:\/\/openload.co\/stream\/F9OeSgaA4Xk~1548721050~2001:e68::~QUseWuNf",
+					"file": "FC2_PPV-616278.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-616278.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 810769608,
+					"total": 810769608,
+					"elapsed": 1368,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634601,
+					"completed-time": 1548637789,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548636426
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-957376.mp4",
+					"uri": "https:\/\/openload.co\/stream\/HdWjRhXzsSs~1548720983~2001:e68::~KZTNcjwn",
+					"file": "FC2_PPV-957376.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-957376.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1226857145,
+					"total": 1226857145,
+					"elapsed": 1355,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634364,
+					"completed-time": 1548636687,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548635334
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-972018.mp4",
+					"uri": "https:\/\/openload.co\/stream\/BasQ9kCzggI~1548720746~2001:e68::~uk9vT4Pa",
+					"file": "FC2_PPV-972018.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-972018.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 360032006,
+					"total": 360032006,
+					"elapsed": 104,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634497,
+					"completed-time": 1548636329,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548636226
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-962683.mp4",
+					"uri": "https:\/\/openload.co\/stream\/yFQZumncrDk~1548720879~2001:e68::~92Lpb0mh",
+					"file": "FC2_PPV-962683.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-962683.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 396150485,
+					"total": 396150485,
+					"elapsed": 565,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634471,
+					"completed-time": 1548636225,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548635670
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-963446.mp4",
+					"uri": "https:\/\/openload.co\/stream\/FAHtF7tTiiU~1548720851~2001:e68::~RPnrTckP",
+					"file": "FC2_PPV-963446.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-963446.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 635797297,
+					"total": 635797297,
+					"elapsed": 834,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548634054,
+					"completed-time": 1548635660,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548634827
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-977274.mp4",
+					"uri": "https:\/\/openload.co\/stream\/2t9ZlxCIHGI~1548720436~2001:e68::~_55rvrp8",
+					"file": "FC2_PPV-977274.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-977274.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1046603399,
+					"total": 1046603399,
+					"elapsed": 1662,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548633798,
+					"completed-time": 1548635461,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548633800
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-375932.mp4",
+					"uri": "https:\/\/openload.co\/stream\/XfgCS6swvvg~1548720170~2001:e68::~VRha0tSQ",
+					"file": "FC2_PPV-375932.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-375932.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 353792619,
+					"total": 353792619,
+					"elapsed": 672,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548633836,
+					"completed-time": 1548635332,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548634662
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-580984.mp4",
+					"uri": "https:\/\/openload.co\/stream\/gdKoIqMdp6o~1548720218~2001:e68::~089P1qV1",
+					"file": "FC2_PPV-580984.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-580984.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 651856262,
+					"total": 651856262,
+					"elapsed": 906,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548633819,
+					"completed-time": 1548634725,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548633821
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-981430.mp4",
+					"uri": "https:\/\/openload.co\/stream\/a52m03hBmfs~1548720199~2001:e68::~RdRn0pfz",
+					"file": "FC2_PPV-981430.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-981430.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 423513138,
+					"total": 423513138,
+					"elapsed": 890,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548633769,
+					"completed-time": 1548634660,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1548633771
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "FC2_PPV-549601.mp4",
+					"uri": "https:\/\/openload.co\/stream\/kAVFw6rilKk~1548720137~2001:e68::~42usPwY0",
+					"file": "FC2_PPV-549601.mp4",
+					"folder": "\/home\/archd",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/archd\/FC2_PPV-549601.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
 					"complete": 2595658574,
 					"total": 2595658574,
 					"elapsed": 1038,

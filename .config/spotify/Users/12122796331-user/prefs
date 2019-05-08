@@ -1,2 +1,4 @@
+gaia.known_zeroconf="{\"3e5d16c7bedd6c61a021b54438dc080b9cdc069a\":{\"known\":false,\"popularity\":1,\"prio\":\"connect\",\"shown\":0}}"
 audio.play_bitrate_enumeration=4
 audio.sync_bitrate_enumeration=4
+ui.hide_hpto=true

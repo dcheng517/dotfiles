@@ -14,9 +14,11 @@ execute pathogen#infect()
 :syntax on
 :set tabstop=4
 :set softtabstop=4
-:set textwidth=80
+:set tw=0
 :set smartindent
 :set mouse=a	
+set wildmode=longest,list,full
+:set t_Co=256
 
 "swithcing windows
 nmap <silent> <A-Up> :wincmd k<CR>
@@ -27,6 +29,15 @@ nmap <silent> <A-Right> :wincmd l<CR>
 "Buffers
 :nnoremap <F5> :buffers<CR>:buffer<Space>
 :nnoremap <C-F5> :buffers<CR>:buffer<Space>
+:nnoremap <Tab> :bnext<CR>
+:nnoremap <S-Tab> :bprevious<CR>
+":nnoremap <C-w> :bd<CR>
+
+"Splits
+map <C-j> <C-W>j
+map <C-k> <C-W>k
+map <C-h> <C-W>h
+map <C-l> <C-W>l
 
 "autocomplete && autoindent braces
 "inoremap ( ()<left>
@@ -38,11 +49,6 @@ inoremap {<CR> {<CR>}<Esc>ko
 "C++ compile
 set autowrite
 nnoremap <M-F5> :!g++ -std=c++11 % -Wall -g -o %.out && ./%.out<CR>
-
-"Vim-Colors-Solarized
-syntax enable
-"set background=dark
-"colorscheme solarized
 
 "NERDTree
 map <F2> :NERDTreeToggle<CR>
@@ -62,6 +68,9 @@ map K <Plug>(easymotion-k)
 "vim-javascript
 let g:javascript_plugin_jsdoc = 1
 
+"vim-airline
+let g:airline#extensions#tabline#enabled = 1
+
 "copy/paste to system clipboard
 :vnoremap <y> "+y 
 :nnoremap <p> "+p
@@ -74,7 +83,4 @@ func! WordProcessorMode()
 		setlocal spell spelllang=en_us
 		setlocal noexpandtab
 endfu
-
-"colorscheme darkblue
-
 
